@@ -19,7 +19,7 @@ o + u
 
 # 促音 tsu
 
-表示停頓，落在 k s t ts p 之前
+表示停頓，落在 k s t ts p 之前，寫出來是 Q 版 tsu
 
 # 拗音
 
